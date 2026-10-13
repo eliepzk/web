@@ -20,4 +20,7 @@ de diseño y desarrollo web.
 - Adaptación a celulares y computadoras.
 
 ## Sitio publicado
-Pega aquí la URL de tu GitHub Pages.
+
+Repositorio de GitHub: En proceso.
+
+Página web publicada: En proceso.
