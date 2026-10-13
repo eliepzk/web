@@ -23,4 +23,4 @@ de diseño y desarrollo web.
 
 Repositorio de GitHub: En proceso.
 
-Página web publicada: En proceso.
+Página web publicada: https://eliepzk.github.io/web/
